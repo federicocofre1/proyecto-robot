@@ -1,0 +1,32 @@
+.contenedor{
+display: flex;
+justify-content: center;
+color: rgb(255, 255, 255);
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid grey;
+    letter-spacing: 1px;
+    font-size: 2rem;
+}
+
+th{
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    text-align: left;
+}
+
+td{
+    border: 1px solid grey;
+    padding: 15px;
+    background: linear-gradient(rgb(82, 163, 255), rgb(0, 0, 0))
+}
+
+.subtitulo{
+    color: rgb(255, 0, 13);
+    padding: 0 0 0 10px;
+    margin: 25px;
+}
+

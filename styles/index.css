@@ -1,0 +1,41 @@
+.subtitulo{
+    margin: 15px;
+    padding: 0;
+    color: red;
+}
+
+.container{
+
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.imagen{
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 25%;
+    height: auto;
+    
+
+}
+
+.imagen2{
+float: left;
+margin: 0 20px 20px 0px;
+max-width: 25%;
+height: auto;
+
+}
+
+p{
+    font-size: 20px;
+    color: rgb(214, 214, 214);
+}
+
+.titulointerno{
+    font-size: 24px;
+    padding: 0 0 0px 20px;
+    margin: 0;
+    color: red;
+}
